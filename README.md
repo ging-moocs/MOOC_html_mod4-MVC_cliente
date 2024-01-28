@@ -3,7 +3,7 @@
 <br/><br/><br/>
 # Módulo 4: Eventos, Objetos, Arrays, JSON, Storage API, Boolean, operadores lógicos y MVC. - Entrega: MVC Cliente
 
-Versión: 14 de septiembre de 2022
+Versión: 28 de enero de 2024
 
 ## Objetivos
 
