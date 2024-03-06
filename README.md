@@ -130,7 +130,7 @@ Una vez satisfecho con su calificación, el alumno puede subir su entrega a Miri
 $ npx autocorector --upload
 ```
 
-La herramienta de autocorrección preguntará por el correo del alumno y el token de MiriadaX. En [este enlace](https://docs.google.com/presentation/d/e/2PACX-1vRYA9npW0Xg_c6_SWg2jAU7L2ti83-GY1VYKTzM1U5AgsW-0BC3xbwi__gsrsZ50Md0ja2HyadNzEPn/pub?start=false&loop=false&delayms=5000) se proveen instrucciones para encontrar dicho token.
+La herramienta de autocorrección preguntará por el correo del alumno y el token de MiriadaX. En [este enlace]([https://docs.google.com/presentation/d/e/2PACX-1vRYA9npW0Xg_c6_SWg2jAU7L2ti83-GY1VYKTzM1U5AgsW-0BC3xbwi__gsrsZ50Md0ja2HyadNzEPn/pub?start=false&loop=false&delayms=5000](https://docs.google.com/presentation/d/e/2PACX-1vSwJ2qCf2Pn0aZ7nzHRPqfJIws2HTUzmChbziwmZQe0WWU1_AUIy_U2DmAVQr0l9A/pub?start=false&loop=false&delayms=60000&slide=id.p1)) se proveen instrucciones para encontrar dicho token.
 
 
 **RÚBRICA:** Se puntuará el ejercicio a corregir sumando el % indicado a la nota total si la parte indicada es correcta:
