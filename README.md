@@ -111,7 +111,7 @@ Para implementar cada funcionalidad se recomienda seguir los siguientes pasos:
 
 Para ayudar al desarrollo, se provee una herramienta de autocorrección que prueba las distintas funcionalidades que se piden en el enunciado. Para utilizar esta herramienta debes tener node.js (y npm) ([https://nodejs.org/es/](https://nodejs.org/es/)) y Git instalados.
 
-Existe [una presentación](https://docs.google.com/presentation/d/e/2PACX-1vRYA9npW0Xg_c6_SWg2jAU7L2ti83-GY1VYKTzM1U5AgsW-0BC3xbwi__gsrsZ50Md0ja2HyadNzEPn/pub?start=false&loop=false&delayms=5000&slide=id.gf07f9a5896_4_1897) al principio del curso sobre cómo trabajar con el autocorector y poder corregir las prácticas con facilidad. Consulta esa presentación si tienes alguna duda.
+Existe [una presentación](https://docs.google.com/presentation/d/e/2PACX-1vSwJ2qCf2Pn0aZ7nzHRPqfJIws2HTUzmChbziwmZQe0WWU1_AUIy_U2DmAVQr0l9A/pub?start=false&loop=false&delayms=60000&slide=id.p1) al principio del curso sobre cómo trabajar con el autocorector y poder corregir las prácticas con facilidad. Consulta esa presentación si tienes alguna duda. Dicha presentación también aclara como obtener el token de Moodle.
 Para instalar y hacer uso de la herramienta de autocorrección en el ordenador local, ejecuta los siguientes comandos en el directorio del proyecto:
 
 ```
@@ -129,8 +129,6 @@ Una vez satisfecho con su calificación, el alumno puede subir su entrega a Miri
 ```
 $ npx autocorector --upload
 ```
-
-La herramienta de autocorrección preguntará por el correo del alumno y el token de MiriadaX. En [este enlace]([https://docs.google.com/presentation/d/e/2PACX-1vRYA9npW0Xg_c6_SWg2jAU7L2ti83-GY1VYKTzM1U5AgsW-0BC3xbwi__gsrsZ50Md0ja2HyadNzEPn/pub?start=false&loop=false&delayms=5000](https://docs.google.com/presentation/d/e/2PACX-1vSwJ2qCf2Pn0aZ7nzHRPqfJIws2HTUzmChbziwmZQe0WWU1_AUIy_U2DmAVQr0l9A/pub?start=false&loop=false&delayms=60000&slide=id.p1)) se proveen instrucciones para encontrar dicho token.
 
 
 **RÚBRICA:** Se puntuará el ejercicio a corregir sumando el % indicado a la nota total si la parte indicada es correcta:
