@@ -6,10 +6,10 @@
     "info": {
         "githubURL": "ging-moocs/MOOC_html_mod4-MVC_cliente_entrega",
         "serverUrl": "https://moocbot.dit.upm.es/",
-        "courseId": "1599",
-        "assignmentId": "961"
+        "courseId": "141",
+        "assignmentId": "113"
     },
     "dependencies": {
-        "autocorector": "^3.1.3"
+        "autocorector": "^3.5.0"
     }
 }
