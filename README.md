@@ -125,7 +125,7 @@ Se puede pasar la herramienta de autoorrección tantas veces como se desee sin n
 
 ## Instrucciones para la Entrega y Evaluación.
 
-Una vez satisfecho con su calificación, el alumno puede subir su entrega a MiriadaX con el siguiente comando:
+Una vez satisfecho con su calificación, el alumno puede subir su entrega con el siguiente comando:
 ```
 $ npx autocorector --upload
 ```
